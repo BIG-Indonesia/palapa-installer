@@ -1,0 +1,16 @@
+Installer Terbaru Silahkan Download dengan link berikut:
+
+https://cloud.big.go.id/index.php/s/pjIuYBMu9T1Hfpe
+
+setelah download extract dan copy ke folder tmp,
+
+kemudian masuk ke folder hasil extract jalankan script:
+chmod +rx *.sh
+
+dilanjutkan dengan mengeksekusi file berikut
+step1_palapa.sh
+
+setelah selesai lanjutkan dengan file:
+step2_palapa.sh
+
+tutorial dan step2 terdapat dalam pdf tutorial
