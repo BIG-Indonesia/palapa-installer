@@ -20,7 +20,7 @@ kemudia kembali ke folder installer:
 cd ..
 
 
-dilanjutkan dengan mengeksekusi file berikut
+dilanjutkan dengan mengeksekusi file berikut :
 ./installer.sh
 
 Ikuti langkah-langkah sesuai installer
